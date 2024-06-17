@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "урок 17", "урок 17", "{A5D1DA65-E65E-4A63-8BBF-E1109F509F71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "урок 14", "урок 14", "{34F94D9F-10DC-4FBA-9DCA-EB82DAAB1997}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "дз", "дз", "{B25D7144-3EB0-42DD-B0D1-0AC7DB5AC195}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ср", "ср", "{4CA81F7E-AA08-4A1F-9229-BF1B7037355F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task1", "урок 14\дз\task1\task1.vcxproj", "{CF454FB3-A311-4A51-8E9A-94AE2E4ACADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF454FB3-A311-4A51-8E9A-94AE2E4ACADA}.Debug|x64.ActiveCfg = Debug|x64
+		{CF454FB3-A311-4A51-8E9A-94AE2E4ACADA}.Debug|x64.Build.0 = Debug|x64
+		{CF454FB3-A311-4A51-8E9A-94AE2E4ACADA}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF454FB3-A311-4A51-8E9A-94AE2E4ACADA}.Debug|x86.Build.0 = Debug|Win32
+		{CF454FB3-A311-4A51-8E9A-94AE2E4ACADA}.Release|x64.ActiveCfg = Release|x64
+		{CF454FB3-A311-4A51-8E9A-94AE2E4ACADA}.Release|x64.Build.0 = Release|x64
+		{CF454FB3-A311-4A51-8E9A-94AE2E4ACADA}.Release|x86.ActiveCfg = Release|Win32
+		{CF454FB3-A311-4A51-8E9A-94AE2E4ACADA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B25D7144-3EB0-42DD-B0D1-0AC7DB5AC195} = {34F94D9F-10DC-4FBA-9DCA-EB82DAAB1997}
+		{4CA81F7E-AA08-4A1F-9229-BF1B7037355F} = {34F94D9F-10DC-4FBA-9DCA-EB82DAAB1997}
+		{CF454FB3-A311-4A51-8E9A-94AE2E4ACADA} = {B25D7144-3EB0-42DD-B0D1-0AC7DB5AC195}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {893EF0C6-35E8-4C40-B020-D1F5FF4D30EB}
+	EndGlobalSection
+EndGlobal
